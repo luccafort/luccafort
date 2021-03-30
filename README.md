@@ -11,6 +11,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccafort&show_icons=true&theme=dark)](https://github.com/luccafort/github-readme-stats)
 
+## luccafort's operation manual for team members.
+
+- [取扱説明書](./OperationManual.md)
+
 ## social
 
 - [おうさまのみみはロバのみみ](https://luccafort.hatenablog.com/)
