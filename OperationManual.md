@@ -2,8 +2,8 @@
 
 ## TL;DR
 
-ref: https://blog.kyash.co/entry/2021/03/18/102602
-ref: https://note.com/yutabnbn/n/n345f5bd92f01
+ref: https://blog.kyash.co/entry/2021/03/18/102602  
+ref: https://note.com/yutabnbn/n/n345f5bd92f01  
 
 ## 働く時間
 
