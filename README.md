@@ -17,7 +17,8 @@
 
 ## code of conduct
 
-- [行動規範](./CODE_OF_CONDUCT.md) - 主催・運営に関わるイベントやコミュニティで提示している行動規範です。
+- [行動規範](./docs/CODE_OF_CONDUCT.md) - 主催・運営に関わるイベントやコミュニティで提示している行動規範です。
+- [行動規範 (Web 版)](https://luccafort.github.io/luccafort/) - GitHub Pages で公開しているものです。イベントからはこちらを参照してください。
 
 ## social
 
