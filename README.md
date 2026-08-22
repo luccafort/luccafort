@@ -15,6 +15,10 @@
 
 - [取扱説明書](./OperationManual.md)
 
+## code of conduct
+
+- [行動規範](./CODE_OF_CONDUCT.md) - 主催・運営に関わるイベントやコミュニティで提示している行動規範です。
+
 ## social
 
 - [おうさまのみみはロバのみみ](https://luccafort.hatenablog.com/)
