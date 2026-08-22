@@ -27,3 +27,4 @@
 - [linkedin: luccafort](https://www.linkedin.com/in/luccafort)
 - [mixi2: luccafort](https://mixi.social/@luccafort)
 - [note: luccafort](https://note.com/luccafort)
+- [facebook: luccafort](https://www.facebook.com/profile.php?id=100086182815939)
