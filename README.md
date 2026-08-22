@@ -24,3 +24,6 @@
 
 - [おうさまのみみはロバのみみ](https://luccafort.hatenablog.com/)
 - [twitter: luccafort](https://twitter.com/luccafort)
+- [linkedin: dx-luccafort](https://www.linkedin.com/in/dx-luccafort-a8b164248/)
+- [mixi2: luccafort](https://mixi.social/@luccafort)
+- [note: luccafort](https://note.com/luccafort)
